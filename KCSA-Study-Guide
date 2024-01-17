@@ -1,0 +1,90 @@
+Domains & Competencies
+
+Overview of Cloud Native Security - 14%
+
+The 4Cs of Cloud Native Security
+Cloud Provider and Infrastructure Security
+Controls and Frameworks
+Isolation Techniques
+Artifact Repository and Image Security
+Workload and Application Code Security
+
+Additional References:
+https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+https://docs.docker.com/develop/security-best-practices/
+
+Kubernetes Cluster Component Security - 22%
+
+API Server
+Controller Manager
+Scheduler
+Kubelet
+Container Runtime
+KubeProxy
+Pod
+Etcd
+Container Networking
+Client Security
+Storage
+
+Additional References:
+https://kubernetes.io/docs/reference/command-line-tools-reference/
+https://kubernetes.io/docs/reference/scheduling/
+https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+
+Kubernetes Security Fundamentals - 22%
+
+Pod Security Standards
+Pod Security Admissions
+Authentication
+Authorization
+Secrets
+Isolation and Segmentation
+Audit Logging
+Network Policy
+
+Reference:
+https://kubernetes.io/docs/concepts/security/
+
+
+Kubernetes Threat Model - 16%
+
+Kubernetes Trust Boundaries and Data Flow
+Persistence
+Denial of Service
+Malicious Code Execution and Compromised Applications in Containers
+Attacker on the Network
+Access to Sensitive Data
+Privilege Escalation
+
+References:
+community/sig-security at master · kubernetes/community · GitHub
+Threat Modelling: Securing Kubernetes Infrastructure & Deployments - Rowan Baker, ControlPlane
+https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/
+https://www.docker.com/ja-jp/static/five-container-development-security-risks-and-how-to-prevent-them.pdf
+https://kubernetes.io/docs/concepts/security/rbac-good-practices/
+https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
+
+Platform Security - 16%
+
+Supply Chain Security
+Image Repository
+Observability
+Service Mesh
+PKI
+Connectivity
+Admission Control
+
+Ref:
+https://kubernetes.io/docs/concepts/security/security-checklist/#images
+
+
+Compliance and Security Frameworks - 10%
+
+Compliance Frameworks
+Threat Modelling Frameworks
+Supply Chain Compliance
+Automation and Tooling
+
+References:
+
