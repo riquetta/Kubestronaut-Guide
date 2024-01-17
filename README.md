@@ -7,6 +7,7 @@
 This study guide has been crafted to assist the community in getting started with the latest CNCF Kubernetes certification (KCSA).
 We believe that the content in this study guide will assist you in understanding the Kubernetes security aspects, enabling you to prepare for the KCSA Certification once it becomes publicly available.
 
+[Access the Study Guide Here](https://github.com/riquetta/KCSA/wiki#important-note)
 
 ## Author
 Marcos Riquetta
