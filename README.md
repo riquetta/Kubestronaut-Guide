@@ -11,4 +11,4 @@ Marcos Riquetta
 ## About
 4 Times Kubernetes certified (KCNA,CKAD,CKA,CKS) 
 
-Stay in touch: [LinkedIn(https://www.linkedin.com/in/riquetta/)]
+Stay in touch: [LinkedIn](https://www.linkedin.com/in/riquetta/)
