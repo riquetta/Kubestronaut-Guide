@@ -30,9 +30,10 @@ If you find this guide helpful, don’t forget to star the repo ⭐ and share it
 ________________________________________
 # Ready to launch?
 Start your journey with the [KCSA Study Guide](https://github.com/riquetta/KCSA/wiki#important-note) and begin your ascent to Kubernetes mastery!
+________________________________________
 
 ## Author
-Marcos Riquetta
-- 5 Times Kubernetes certified (KUBESTRONAUT) 
+Marcos Riquetta <br/>
+✅ 5 Times Kubernetes certified (KUBESTRONAUT) 
 
 Stay in touch: [LinkedIn](https://www.linkedin.com/in/riquetta/)
