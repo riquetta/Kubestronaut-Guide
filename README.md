@@ -29,7 +29,7 @@ ________________________________________
 If you find this guide helpful, don’t forget to star the repo ⭐ and share it with others on their Kubernetes journey. Let’s build a strong community of Kubestronauts!
 ________________________________________
 # Ready to launch?
-Start your journey with the [KCSA Study Guide](https://github.com/riquetta/KCSA/wiki#important-note) and begin your ascent to Kubernetes mastery!
+Start your journey with the [KCSA Study Guide](https://github.com/riquetta/Kubestronaut-Guide/wiki/KCSA) and begin your ascent to Kubernetes mastery!
 ________________________________________
 
 ## Author
